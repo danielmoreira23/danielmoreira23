@@ -2,7 +2,7 @@
 
 meu nome é Daniel
 
--estou estudando no alura
+-estou estudando no [alura](https://www.alura.com.br)
 
 -estou me desenvolvendo na linguagem JavaScript
 
