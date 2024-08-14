@@ -1,4 +1,4 @@
-##boas vindas ao meu perfil 🖤
+*bem-vindo ao meu perfil* 🖤
 
 meu nome é Daniel
 
@@ -13,4 +13,5 @@ meu nome é Daniel
 danielmoreirasilva660@gmail.com
 
 danielmoreirasilva
+
 ![](https://media1.tenor.com/m/4w2WGjtBlcEAAAAC/fafuke-fafuke-rainbow.gif)
